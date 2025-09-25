@@ -16,4 +16,5 @@ d'un obstacle et déclenche une alerte visuelle et sonore si celui-ci est trop p
 
 ## Image annoté du capture du shéma TinkerCad
 
-![](image/capture.PNG)
+![](image/capture.png)
+
